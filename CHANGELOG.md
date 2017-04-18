@@ -1,6 +1,10 @@
 DOI SSL Filtering
 =================
 
+v1.0.5
+------
+- [mamcderm@usgs.gov] - Replaced cert_locations attribute.
+
 v1.0.4
 ------
 - [isuftin@usgs.gov] - Removed resource cloning
